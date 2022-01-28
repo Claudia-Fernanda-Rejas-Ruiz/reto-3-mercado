@@ -1,0 +1,12 @@
+body{background: brown;
+font-family: Centaur;
+}
+h1{font-style: italic;
+color: black;
+font-size: 20px;}
+p{font-weight: bold;
+color: gray;}
+.text{background-color: lightgreen;}
+.otro{background-color: white;}
+.je{font-weight: bold;
+font-size: 20px;}

@@ -1,0 +1,20 @@
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    border-radius: 5px orange;
+}
+h1{
+    font-weight: bold;
+    font-style: italic;
+    padding: 5px 10px 5px 10px;
+    background-color: lightcoral;
+    color: orangered;
+}
+h2{
+    font-family: "Times New Roman";
+}
+button{
+    background-color: lightsalmon;
+    color: thistle;
+    font-weight: bold;
+}
