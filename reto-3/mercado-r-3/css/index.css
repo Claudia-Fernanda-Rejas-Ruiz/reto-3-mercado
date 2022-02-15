@@ -307,7 +307,13 @@
   }
   
   .footer__link-icon {
-    width: 100%;
+    width: 2rem;
+    transition: width 2s, height 2s, transform 2s;
+  }
+  
+  .footer__link-icon:hover {
+    width: 2.5rem;
+    transform: rotate(360deg);
   }
   
   .wave-separator__wave-container {
