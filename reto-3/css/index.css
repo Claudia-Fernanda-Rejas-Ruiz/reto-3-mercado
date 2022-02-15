@@ -145,6 +145,10 @@
   .productos-container-intro-indicaciones{
     font-size: 1rem;
   }
+  .productos-products-contenedor{
+    display: grid;
+    grid-template-rows: repeat(4,1fr);
+  }
   .productos__products-container{
       flex:1rem;
       justify-content: center;
